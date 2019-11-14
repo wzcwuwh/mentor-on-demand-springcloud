@@ -1,0 +1,9 @@
+com/ibm/fullstack/entity/TrainingDtls.class
+com/ibm/fullstack/service/IMailService.class
+com/ibm/fullstack/CommonApplication.class
+com/ibm/fullstack/service/impl/MailService.class
+com/ibm/fullstack/entity/UserDtls.class
+com/ibm/fullstack/entity/PaymentDtls.class
+com/ibm/fullstack/dto/MailBean.class
+com/ibm/fullstack/entity/SkillDtls.class
+com/ibm/fullstack/controller/MailController.class

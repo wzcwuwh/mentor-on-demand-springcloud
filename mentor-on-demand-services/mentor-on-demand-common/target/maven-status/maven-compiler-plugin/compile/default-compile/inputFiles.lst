@@ -1,0 +1,9 @@
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/controller/MailController.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/dto/MailBean.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/entity/PaymentDtls.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/service/IMailService.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/CommonApplication.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/entity/UserDtls.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/entity/TrainingDtls.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/service/impl/MailService.java
+/Users/wuzaichang/IdeaProjects/mentor-on-demand/mentor-on-demand-services/mentor-on-demand-common/src/main/java/com/ibm/fullstack/entity/SkillDtls.java

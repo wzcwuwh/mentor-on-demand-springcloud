@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: eureka-client-technology
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate.format_sql: true
+    open-in-view: false
+    datasource:
+      url: jdbc:mysql://127.0.0.1:3306/ibm_mentor_on_demand?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+      username: root
+      password: Wzcwu@0214
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      tomcat:
+      max-active: 4
+      min-idle: 2
+      initial-size: 2
+
+server:
+  port: 7003
+  servlet:
+    context-path: /technology

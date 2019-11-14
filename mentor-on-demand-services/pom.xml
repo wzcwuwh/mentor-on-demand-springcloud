@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>mentor-on-demand</artifactId>
+        <groupId>com.ibm.fullstack</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>mentor-on-demand-services</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>mentor-on-demand-common</module>
+        <module>mentor-on-demand-user</module>
+        <module>mentor-on-demand-training</module>
+        <module>mentor-on-demand-technology</module>
+        <module>mentor-on-demand-search</module>
+        <module>mentor-on-demand-security</module>
+        <module>mentor-on-demand-payment</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <name>mentor-on-demand-services</name>
+    <description>the services of mentor on demand platform</description>
+
+</project>
